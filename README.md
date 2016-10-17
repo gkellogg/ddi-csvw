@@ -16,3 +16,4 @@ The examples may be explored using various toolsets, including [Ruby RDF](https:
 
 # Presentation
 * [DDI-CSVW-2016](presentation/index.html)
+* [DDI-CSVW-2016 (PDF)](presentation/DDI-CSVW-2016.pdf)
